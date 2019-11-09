@@ -1,4 +1,11 @@
-data/
+data/air_quality
+data/cameras/M10
+data/census
+data/detection
+data/geography
+data/models
+data/network
+data/output_data
 resources/
 viz/
 victoria.qgz
